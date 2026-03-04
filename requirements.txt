@@ -1,9 +1,9 @@
 yfinance
 pandas
-pandas-ta
 streamlit
 transformers
 torch
 plotly
 scipy
-altair
+scikit-learn
+altair<5
