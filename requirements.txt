@@ -1,9 +1,9 @@
 yfinance
 pandas
-streamlit
+streamlit>=1.40.0
 transformers
 torch
 plotly
 scipy
 scikit-learn
-altair<5
+altair
