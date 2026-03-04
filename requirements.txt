@@ -1,0 +1,9 @@
+yfinance
+pandas
+pandas-ta
+streamlit
+transformers
+torch
+plotly
+scipy
+altair
